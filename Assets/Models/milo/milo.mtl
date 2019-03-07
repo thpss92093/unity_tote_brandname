@@ -1,0 +1,25 @@
+# Exported from 3D Builder
+
+newmtl Mat_0
+Kd 1.000000 1.000000 1.000000
+map_Kd milo_1.PNG
+
+newmtl Mat_1
+Kd 1.000000 1.000000 1.000000
+map_Kd milo_2.PNG
+
+newmtl Mat_2
+Kd 1.000000 1.000000 1.000000
+map_Kd milo_3.PNG
+
+newmtl Mat_3
+Kd 1.000000 1.000000 1.000000
+map_Kd milo_4.PNG
+
+newmtl Mat_4
+Kd 1.000000 1.000000 1.000000
+map_Kd milo_5.PNG
+
+newmtl Mat_5
+Kd 1.000000 1.000000 1.000000
+map_Kd milo_6.PNG

@@ -1,0 +1,26 @@
+# Exported from 3D Builder
+
+newmtl Regular_0
+Kd 0.847059 0.003922 0.068477
+
+newmtl Mat_0
+Kd 1.000000 1.000000 1.000000
+map_Kd 1.png
+
+newmtl Mat_1
+Kd 1.000000 1.000000 1.000000
+map_Kd 2.jpg
+
+newmtl Mat_2
+Kd 1.000000 1.000000 1.000000
+map_Kd 3.jpg
+
+newmtl Mat_3
+Kd 1.000000 1.000000 1.000000
+map_Kd 4.jpg
+
+newmtl Default
+Kd 1.000000 1.000000 1.000000
+
+newmtl Default
+Kd 1.000000 1.000000 1.000000

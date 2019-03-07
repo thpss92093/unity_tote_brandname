@@ -1,0 +1,16 @@
+# Exported from 3D Builder
+
+newmtl Metallic_0
+Kd 1.000000 1.000000 1.000000
+
+newmtl Mat_0
+Kd 1.000000 1.000000 1.000000
+map_Kd 1.jpg
+
+newmtl Mat_1
+Kd 1.000000 1.000000 1.000000
+map_Kd 2.jpg
+
+newmtl Mat_2
+Kd 1.000000 1.000000 1.000000
+map_Kd 3.jpg
